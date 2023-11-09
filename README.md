@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning C++ and Vue.
 - 💞️ I’m looking to collaborate on indie games and fun projects.
 - 📫 How to reach me: 
-     * Email: blainegrissom1@gmail.com
+     * Email: blainegrissom@protonmail.com
      * LinkedIn: https://www.linkedin.com/in/blaine-grissom-290419186/
 
 <!---
